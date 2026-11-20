@@ -1,0 +1,12 @@
+=== Vaisseau RPG 1.0 · 2026-11-13 09:49:57 · OSXEditor · Mac16,12 · Mac OS X 15.7.3 · Apple M4 (Metal) · mémoire 16384 Mo · écran 1796x908 ===
+00:00:00 | - | APPLI   reprise
+00:00:00 | - | SCENE   Vaisseau
+00:00:00 | Jour 4 · 01 h · neride | SCENE   Menu (Néréide)
+00:00:10 | Jour 4 · 03 h · neride | PARTIE  nouvelle partie : Rook Valen · pangolin « Aurore »
+00:00:10 | Jour 1 · 08 h · cite | SCENE   Vaisseau (Cité-Lumière)
+00:00:10 | Jour 1 · 08 h · cite | MSG     À quai : descendez à Cité-Lumière en chasseur, depuis le hangar
+00:00:18 | Jour 1 · 08 h · cite | CHOIX   dialogue : Oui, montre-moi le vaisseau
+00:00:18 | Jour 1 · 08 h · cite | TUTO    étape : quartiers
+00:00:23 | Jour 1 · 08 h · cite | TUTO    étape : laboratoire
+00:00:47 | Jour 1 · 10 h · cite | TUTO    étape : botanique
+00:01:10 | Jour 1 · 14 h · cite | APPLI   fermeture (10 lignes)
