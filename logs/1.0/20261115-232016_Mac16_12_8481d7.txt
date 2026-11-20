@@ -1,0 +1,28 @@
+=== Vaisseau RPG 1.0 · 2026-11-15 23:20:16 · OSXEditor · Mac16,12 · Mac OS X 15.7.3 · Apple M4 (Metal) · mémoire 16384 Mo · écran 1796x908 ===
+00:00:00 | - | APPLI   reprise
+00:00:00 | - | SCENE   Vaisseau
+00:00:00 | Jour 1 · 11 h · cite | SCENE   Menu (Cité-Lumière)
+00:00:20 | Jour 1 · 15 h · cite | PARTIE  nouvelle partie : Kaela Voss · pangolin « Aurore »
+00:00:20 | Jour 1 · 08 h · cite | SCENE   Vaisseau (Cité-Lumière)
+00:00:21 | Jour 1 · 08 h · cite | MSG     À quai : descendez à Cité-Lumière en chasseur, depuis le hangar
+00:00:27 | Jour 1 · 09 h · cite | ACTION  Ouvrir la porte : Quartiers d'équipage [Porte - Quartiers d'équipage]
+00:00:38 | Jour 1 · 09 h · cite | CHOIX   dialogue : Oui, montre-moi le vaisseau
+00:00:40 | Jour 1 · 09 h · cite | TUTO    étape : laboratoire
+00:00:57 | Jour 1 · 11 h · cite | TUTO    étape : botanique
+00:01:18 | Jour 1 · 15 h · cite | TUTO    étape : machines
+00:01:43 | Jour 1 · 19 h · cite | TUTO    étape : tir
+00:01:58 | Jour 1 · 22 h · cite | ACTION  Ouvrir la porte : Tourelles [Porte - Tourelles]
+00:02:06 | Jour 1 · 22 h · cite | CHOIX   dialogue : Plus tard
+00:02:06 | Jour 1 · 22 h · cite | TUTO    étape : quartiers
+00:02:18 | Jour 2 · 00 h · cite | ACTION  Fermer la porte : Quartiers d'équipage [Porte - Quartiers d'équipage]
+00:02:24 | Jour 2 · 01 h · cite | ACTION  Ouvrir la porte : Quartiers d'équipage [Porte - Quartiers d'équipage]
+00:03:03 | Jour 2 · 02 h · cite | TUTO    étape : hangar
+00:03:23 | Jour 2 · 05 h · cite | TUTO    étape : caisses
+00:03:27 | Jour 2 · 06 h · cite | ACTION  Ouvrir la caisse (hangar) (0/2) [Emplacement rangement0]
+00:03:28 | Jour 2 · 06 h · cite | TUTO    étape : soute
+00:03:46 | Jour 2 · 08 h · cite | TUTO    étape : passerelle
+00:03:56 | Jour 2 · 09 h · cite | CHOIX   dialogue : Plus tard
+00:03:56 | Jour 2 · 09 h · cite | TUTO    étape : carte
+00:04:03 | Jour 2 · 11 h · cite | ACTION  Carte des sauts [Table holographique : carte des sauts]
+00:04:12 | Jour 2 · 12 h · cite | ACTION  Carte des sauts [Table holographique : carte des sauts]
+00:04:44 | Jour 2 · 14 h · cite | APPLI   fermeture (26 lignes)
