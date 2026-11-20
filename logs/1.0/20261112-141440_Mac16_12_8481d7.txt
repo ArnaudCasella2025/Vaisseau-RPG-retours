@@ -1,0 +1,73 @@
+=== Vaisseau RPG 1.0 · 2026-11-12 14:14:40 · OSXEditor · Mac16,12 · Mac OS X 15.7.3 · Apple M4 (Metal) · mémoire 16384 Mo · écran 1796x1236 ===
+00:00:00 | - | APPLI   reprise
+00:00:00 | - | SCENE   Vaisseau
+00:00:00 | Jour 4 · 02 h · cite | SCENE   Menu (Cité-Lumière)
+00:00:16 | Jour 4 · 06 h · cite | PARTIE  nouvelle partie : Rook Valen · moineau « Aurore »
+00:00:17 | Jour 1 · 08 h · cite | SCENE   Vaisseau (Cité-Lumière)
+00:00:17 | Jour 1 · 08 h · cite | MSG     À quai : descendez à Cité-Lumière en chasseur, depuis le hangar
+00:00:29 | Jour 1 · 08 h · cite | CHOIX   dialogue : Oui, montre-moi le vaisseau
+00:00:29 | Jour 1 · 08 h · cite | TUTO    étape : quartiers
+00:00:36 | Jour 1 · 08 h · cite | TUTO    étape : laboratoire
+00:00:44 | Jour 1 · 09 h · cite | TUTO    étape : botanique
+00:00:59 | Jour 1 · 12 h · cite | TUTO    étape : machines
+00:01:10 | Jour 1 · 13 h · cite | TUTO    étape : tir
+00:01:30 | Jour 1 · 16 h · cite | CHOIX   dialogue : Essayer la tourelle
+00:01:30 | Jour 1 · 16 h · cite | TUTO    étape : tir_essai
+00:01:41 | Jour 1 · 18 h · cite | ACTION  Ordinateur de tir : prendre la tourelle [Échelle de la tourelle]
+00:01:41 | Jour 1 · 18 h · cite | TUTO    étape : tir_retour
+00:01:41 | Jour 1 · 18 h · cite | SCENE   Espace (Cité-Lumière)
+00:01:41 | Jour 1 · 18 h · cite | MSG     Tourelle · Aucun ennemi en vue : le canon est à vous.
+00:01:50 | Jour 1 · 20 h · cite | SCENE   Vaisseau (Cité-Lumière)
+00:01:50 | Jour 1 · 20 h · cite | MSG     À quai : descendez à Cité-Lumière en chasseur, depuis le hangar
+00:01:54 | Jour 1 · 20 h · cite | TUTO    étape : hangar
+00:02:19 | Jour 1 · 22 h · cite | TUTO    étape : caisses
+00:02:23 | Jour 1 · 23 h · cite | ACTION  Ouvrir la caisse (hangar) (0/2) [Emplacement rangement2]
+00:02:25 | Jour 1 · 23 h · cite | TUTO    étape : soute
+00:02:54 | Jour 2 · 02 h · cite | TUTO    étape : passerelle
+00:03:15 | Jour 2 · 06 h · cite | CHOIX   dialogue : Piloter le vaisseau
+00:03:15 | Jour 2 · 06 h · cite | TUTO    étape : pilote_essai
+00:03:21 | Jour 2 · 07 h · cite | ACTION  Piloter le vaisseau [Fauteuil du capitaine : piloter le vaisseau]
+00:03:21 | Jour 2 · 07 h · cite | TUTO    étape : pilote_retour
+00:03:21 | Jour 2 · 07 h · cite | SCENE   Espace (Cité-Lumière)
+00:03:21 | Jour 2 · 07 h · cite | MSG     Aux commandes · « Aurore » · Cité-Lumière
+00:03:41 | Jour 2 · 11 h · cite | SCENE   Vaisseau (Cité-Lumière)
+00:03:41 | Jour 2 · 11 h · cite | MSG     À quai : descendez à Cité-Lumière en chasseur, depuis le hangar
+00:03:44 | Jour 2 · 11 h · cite | TUTO    étape : carte
+00:03:55 | Jour 2 · 13 h · cite | ACTION  Carte des sauts [Table holographique : carte des sauts]
+00:04:02 | Jour 2 · 14 h · cite | ACTION  Ouvrir la porte : Passerelle [Porte - Passerelle]
+00:04:10 | Jour 2 · 15 h · cite | ACTION  Ouvrir la porte : Passerelle [Porte - Passerelle]
+00:04:15 | Jour 2 · 16 h · cite | ACTION  Carte des sauts [Table holographique : carte des sauts]
+00:04:22 | Jour 2 · 16 h · cite | VOYAGE  départ vers Néréide (1 sauts, Simple)
+00:04:22 | Jour 2 · 16 h · cite | TUTO    étape : saut
+00:04:37 | Jour 2 · 18 h · cite | ACTION  Ouvrir la porte : Hangar [Porte - Hangar]
+00:04:41 | Jour 2 · 19 h · cite | ACTION  Ouvrir la porte : Hangar [Porte - Hangar]
+00:04:47 | Jour 2 · 20 h · cite | ACTION  Ouvrir la porte : Tourelles [Porte - Tourelles]
+00:04:51 | Jour 2 · 21 h · cite | ACTION  Ordinateur de tir : prendre la tourelle (pas pendant une charge de saut : le canonnier garde la tourelle) [Échelle de la tourelle]
+00:04:51 | Jour 2 · 21 h · cite | MSG     Tourelle : pas pendant une charge de saut : le canonnier garde la tourelle.
+00:04:53 | Jour 2 · 21 h · cite | ACTION  Ordinateur de tir : prendre la tourelle (pas pendant une charge de saut : le canonnier garde la tourelle) [Échelle de la tourelle]
+00:04:55 | Jour 2 · 22 h · cite | ACTION  Ouvrir la porte : Tourelles [Porte - Tourelles]
+00:05:00 | Jour 2 · 23 h · cite | ACTION  Ouvrir la porte : Passerelle [Porte - Passerelle]
+00:05:03 | Jour 2 · 23 h · cite | ACTION  Piloter le vaisseau (le saut part quand la charge est prête) [Fauteuil du capitaine : piloter le vaisseau]
+00:05:03 | Jour 2 · 23 h · cite | SCENE   Espace (Cité-Lumière, en trajet, charge)
+00:05:03 | Jour 2 · 23 h · cite | MSG     Aux commandes · « Aurore » · Cité-Lumière
+00:05:07 | Jour 3 · 00 h · cite | SCENE   Vaisseau (Cité-Lumière, en trajet, charge)
+00:05:17 | Jour 3 · 01 h · cite | ACTION  Ouvrir la porte : Passerelle [Porte - Passerelle]
+00:05:22 | Jour 3 · 02 h · cite | SCENE   Espace (Cité-Lumière, en trajet)
+00:05:23 | Jour 3 · 02 h · cite | MSG     Saut vers Néréide · Destination : Néréide · 1 saut(s) restant(s)
+00:05:24 | Jour 3 · 02 h · neride | VOYAGE  saut vers Néréide (coque 100 %, carburant 4)
+00:05:24 | Jour 3 · 08 h · neride | MSG     Point de saut : Néréide · Rien à signaler.
+00:05:27 | Jour 3 · 08 h · neride | MSG     Arrivée : Néréide · Fin du trajet.
+00:05:30 | Jour 3 · 09 h · neride | VOYAGE  arrivée : Néréide
+00:05:30 | Jour 3 · 09 h · neride | SCENE   Vaisseau (Néréide)
+00:05:30 | Jour 3 · 09 h · neride | MSG     À quai : descendez à Néréide en chasseur, depuis le hangar
+00:05:30 | Jour 3 · 09 h · neride | TUTO    étape : arrivee
+00:05:34 | Jour 3 · 09 h · neride | TUTO    étape : chasseur
+00:05:49 | Jour 3 · 12 h · neride | ACTION  Décoller vers Néréide [Chasseur 2]
+00:05:49 | Jour 3 · 12 h · neride | TUTO    terminé
+00:05:49 | Jour 3 · 12 h · neride | TUTO    étape : fin
+00:05:50 | Jour 3 · 12 h · neride | MSG     Allumage des réacteurs...
+00:05:53 | Jour 3 · 13 h · neride | MSG     Décollage !
+00:05:56 | Jour 3 · 14 h · neride | SCENE   Espace (Néréide)
+00:06:13 | Jour 3 · 17 h · neride | SCENE   Escale (Néréide)
+00:06:13 | Jour 3 · 17 h · neride | MSG     Escale : Néréide · laboratoire « Clinique de la Marée »
+00:06:52 | Jour 4 · 01 h · neride | APPLI   fermeture (71 lignes)
