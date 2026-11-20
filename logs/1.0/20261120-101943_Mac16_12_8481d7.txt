@@ -3,3 +3,8 @@
 00:00:00 | - | SCENE   Vaisseau
 00:00:00 | Jour 1 · 08 h · cite | SCENE   Menu (Cité-Lumière)
 00:00:02 | Jour 1 · 08 h · cite | SCENE   Vaisseau (Cité-Lumière)
+00:00:02 | Jour 1 · 08 h · cite | MSG     À quai : descendez à Cité-Lumière en chasseur, depuis le hangar
+00:00:03 | Jour 1 · 08 h · cite | ACTION  Ouvrir la porte : Quartiers d'équipage [Porte - Quartiers d'équipage]
+00:00:08 | Jour 1 · 08 h · cite | CHOIX   dialogue : Non, ça ira, merci
+00:00:08 | Jour 1 · 08 h · cite | TUTO    étape : fin
+00:00:08 | Jour 1 · 08 h · cite | MSG     Zibo : Très bien ! Je retourne à mes moutons de poussière.
