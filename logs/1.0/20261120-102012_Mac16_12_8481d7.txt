@@ -3,3 +3,10 @@
 00:00:00 | - | SCENE   Vaisseau
 00:00:00 | Jour 1 · 10 h · cite | SCENE   Menu (Cité-Lumière)
 00:00:01 | Jour 1 · 10 h · cite | SCENE   Vaisseau (Cité-Lumière)
+00:00:01 | Jour 1 · 10 h · cite | MSG     À quai : descendez à Cité-Lumière en chasseur, depuis le hangar
+00:00:03 | Jour 1 · 11 h · cite | ACTION  Ouvrir la porte : Quartiers d'équipage [Porte - Quartiers d'équipage]
+00:00:06 | Jour 1 · 11 h · cite | ALERTE  [Vaisseau RPG] Journal non envoyé (409 HTTP/1.1 409 Conflict)
+00:00:06 | Jour 1 · 11 h · cite | ALERTE  [Vaisseau RPG] Journal non envoyé (422 HTTP/1.1 422 Unprocessable Entity)
+00:00:10 | Jour 1 · 12 h · cite | MENU    Pause
+00:00:13 | Jour 1 · 12 h · cite | RETOUR  fenêtre « Faire un retour » ouverte
+00:00:30 | Jour 1 · 12 h · cite | RETOUR  Idée d'amélioration : test de retour utilisateur
