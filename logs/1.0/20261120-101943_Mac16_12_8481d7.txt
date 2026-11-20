@@ -1,0 +1,5 @@
+=== Vaisseau RPG 1.0 · 2026-11-20 10:19:43 · OSXEditor · Mac16,12 · Mac OS X 15.7.3 · Apple M4 (Metal) · mémoire 16384 Mo · écran 1796x908 ===
+00:00:00 | - | APPLI   reprise
+00:00:00 | - | SCENE   Vaisseau
+00:00:00 | Jour 1 · 08 h · cite | SCENE   Menu (Cité-Lumière)
+00:00:02 | Jour 1 · 08 h · cite | SCENE   Vaisseau (Cité-Lumière)
