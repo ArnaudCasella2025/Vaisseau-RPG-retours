@@ -10,3 +10,12 @@
 00:00:10 | Jour 1 · 12 h · cite | MENU    Pause
 00:00:13 | Jour 1 · 12 h · cite | RETOUR  fenêtre « Faire un retour » ouverte
 00:00:30 | Jour 1 · 12 h · cite | RETOUR  Idée d'amélioration : test de retour utilisateur
+00:00:32 | Jour 1 · 12 h · cite | RETOUR  ticket créé : https://github.com/ArnaudCasella2025/Vaisseau-RPG-retours/issues/1
+00:00:59 | Jour 1 · 17 h · cite | ACTION  Ouvrir la porte : Hangar [Porte - Hangar]
+00:01:01 | Jour 1 · 17 h · cite | ACTION  Décoller vers Cité-Lumière [Chasseur 2]
+00:01:02 | Jour 1 · 17 h · cite | MSG     Allumage des réacteurs...
+00:01:05 | Jour 1 · 18 h · cite | MSG     Décollage !
+00:01:08 | Jour 1 · 19 h · cite | SCENE   Espace (Cité-Lumière)
+00:01:23 | Jour 1 · 22 h · cite | SCENE   Escale (Cité-Lumière)
+00:01:23 | Jour 1 · 22 h · cite | MSG     Escale : Cité-Lumière · le boss, Sévérine Aldane, tient la Bourse, sous le portique du temple
+00:01:28 | Jour 1 · 22 h · cite | APPLI   fermeture (19 lignes)
