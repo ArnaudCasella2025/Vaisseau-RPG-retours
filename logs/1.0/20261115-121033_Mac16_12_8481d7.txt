@@ -1,0 +1,10 @@
+=== Vaisseau RPG 1.0 · 2026-11-15 12:10:33 · OSXEditor · Mac16,12 · Mac OS X 15.7.3 · Apple M4 (Metal) · mémoire 16384 Mo · écran 1796x908 ===
+00:00:00 | - | APPLI   reprise
+00:00:00 | - | SCENE   Vaisseau
+00:00:00 | Jour 1 · 14 h · cite | SCENE   Menu (Cité-Lumière)
+00:00:05 | Jour 1 · 15 h · cite | PARTIE  nouvelle partie : Kaela Voss · pangolin « Aurore »
+00:00:05 | Jour 1 · 08 h · cite | SCENE   Vaisseau (Cité-Lumière)
+00:00:06 | Jour 1 · 08 h · cite | MSG     À quai : descendez à Cité-Lumière en chasseur, depuis le hangar
+00:00:14 | Jour 1 · 08 h · cite | APPLI   mise en arrière-plan
+05:49:30 | Jour 1 · 08 h · cite | APPLI   reprise
+05:49:32 | Jour 1 · 08 h · cite | APPLI   fermeture (8 lignes)
